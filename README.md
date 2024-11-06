@@ -4,11 +4,10 @@ This project is a fully functional Udemy clone created using React.js. It aims t
 
 ## 🛠️ Features
 
-- User Authentication (Sign Up, Login)
+- Responsive Design
 - Browse Courses
 - Course Details Page
-- Responsive Design
-- Enroll in Courses
+- Reacr JS
 
 ---
 
